@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="86462" started-at="2018-06-22T12:08:22Z" finished-at="2018-06-22T12:09:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="86462" started-at="2018-06-22T12:08:22Z" finished-at="2018-06-22T12:09:48Z">
+      <class name="com.voyalla.scripts.TC_2">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.voyalla.scripts.TC_2@26be92ad]" name="init" is-config="true" duration-ms="17792" started-at="2018-06-22T17:38:22Z" finished-at="2018-06-22T17:38:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.voyalla.scripts.TC_2@26be92ad]" name="test" duration-ms="28894" started-at="2018-06-22T17:38:40Z" finished-at="2018-06-22T17:39:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:com.voyalla.scripts.TC_2@26be92ad]" name="exit" is-config="true" duration-ms="728" started-at="2018-06-22T17:39:09Z" finished-at="2018-06-22T17:39:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.voyalla.scripts.TC_2 -->
+      <class name="com.voyalla.scripts.TC_1">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.voyalla.scripts.TC_1@4c70fda8]" name="init" is-config="true" duration-ms="10451" started-at="2018-06-22T17:39:09Z" finished-at="2018-06-22T17:39:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.voyalla.scripts.TC_1@4c70fda8]" name="test" duration-ms="27833" started-at="2018-06-22T17:39:20Z" finished-at="2018-06-22T17:39:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:com.voyalla.scripts.TC_1@4c70fda8]" name="exit" is-config="true" duration-ms="722" started-at="2018-06-22T17:39:48Z" finished-at="2018-06-22T17:39:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.voyalla.scripts.TC_1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
