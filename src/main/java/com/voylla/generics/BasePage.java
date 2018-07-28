@@ -14,7 +14,7 @@ public class BasePage {
 		PageFactory.initElements(driver, this);
 	}
 	
-	@FindBy(xpath="//a[text()='ACCOUNT']")
+	@FindBy(xpath="//a[text()='CART']/../..//div[4]")
 	private WebElement eleAccountLnk;
 	
 	public WebElement getEleAccountLnk()
